@@ -10,6 +10,6 @@ public class JavaClass {
       System.out.println(b.length());
 
        int w= b.charAt(0);
-        System.out.println(" "+ w);
+        System.out.println("  "+ w);
     }
 }
