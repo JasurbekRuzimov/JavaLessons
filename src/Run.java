@@ -3,7 +3,7 @@ public class Run {
     String Position;
     String Nationality;
 
-     void run() {
-         System.out.println(Name + " is running !");
+    void run() {
+        System.out.println(Name + " is running !");
     }
 }
